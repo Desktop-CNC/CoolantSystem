@@ -6,3 +6,4 @@ These are the files for the coolant filtration system and enclosur sealing syste
   - Bag Filter
 - Drain Pan
 - Door Break
+- Coolant Splitter Connector
